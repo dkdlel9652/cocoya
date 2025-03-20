@@ -1,0 +1,1 @@
+"# conen"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/dkdlel9652/conen.gitgit push -u origin main
